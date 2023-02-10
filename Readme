@@ -1,0 +1,22 @@
+# Selenium spring Java Project
+
+This project is a demo of using Selenium WebDriver to automate web browsers in Java.
+
+## Prerequisites
+
+- Java using Spring framework as a dependency under Maven pom.xml .
+- Selenium with TestNg unit testing .
+
+## About the project
+
+1.SignUp page test.
+2.Login page test.
+3.Verify Subtitle under Pricing page .
+4.Verify subtitle negative test.
+
+##How to run
+
+Run  vicarious\src\main\java\Testing\TestRun to run all tests
+or each test separated.
+
+
